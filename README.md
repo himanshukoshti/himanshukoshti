@@ -1,14 +1,11 @@
-[![Braydon's GitHub Banner](./assets/Banner.png)]
+[![Himanshu's GitHub Banner](./Banner.png)]
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on some cool projects
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I Love Developing Cool Stuffs
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](koshtihimanshu02@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/himanshu-koshti-a01036195)
 
