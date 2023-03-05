@@ -1,4 +1,4 @@
-[![Himanshu's GitHub Banner](./Banner.png)]
+![Himanshu's GitHub Banner](./Banner.png)
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development
