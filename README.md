@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://github.com/himanshukoshti">
-  <img align="center" style="margin:0.5rem" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" style="margin:0.5rem" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukoshti&layout=compact" />
 </a>
 
 <a href="https://github.com/himanshukoshti">
