@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development
-<!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on some cool projects
 - ⚡ Fun fact: I Love Developing Cool Stuffs
 - 📫 How to reach me:
